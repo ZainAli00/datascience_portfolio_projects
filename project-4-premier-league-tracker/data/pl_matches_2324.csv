@@ -1,0 +1,381 @@
+match_id,gameweek,date,home_team,away_team,home_goals,away_goals,home_xg,away_xg,home_shots,away_shots,home_shots_on_target,away_shots_on_target,home_possession,away_possession,home_corners,away_corners,home_fouls,away_fouls,attendance,referee,result
+1,1,2023-08-14,Manchester City,Luton Town,2,0,3.11,0.1,15,8,4,2,66.0,34.0,8,8,8,7,46531,Anthony Taylor,H
+2,1,2023-08-13,Brentford,Arsenal,2,4,1.86,2.86,7,9,2,4,50.6,49.4,10,9,6,15,60774,Michael Oliver,A
+3,1,2023-08-13,West Ham,Chelsea,1,1,1.68,1.63,15,8,6,3,54.6,45.4,8,7,16,15,20206,Anthony Taylor,D
+4,1,2023-08-13,Bournemouth,Aston Villa,1,2,0.99,1.27,5,13,2,5,38.0,62.0,11,7,17,15,43776,Michael Oliver,A
+5,1,2023-08-14,Burnley,Nottingham Forest,0,1,0.2,0.9,10,6,3,2,50.1,49.9,3,5,17,16,58559,Craig Pawson,A
+6,1,2023-08-14,Wolves,Liverpool,1,2,0.48,1.02,8,13,3,3,50.1,49.9,5,9,6,14,25759,Anthony Taylor,A
+7,1,2023-08-13,Crystal Palace,Sheffield United,2,0,1.82,0.13,19,13,9,5,60.1,39.9,3,2,11,9,48643,Michael Oliver,H
+8,1,2023-08-13,Tottenham,Fulham,2,1,1.42,0.67,14,13,6,4,48.9,51.1,6,6,8,18,53828,Paul Tierney,H
+9,1,2023-08-12,Manchester United,Brighton,2,1,1.41,0.6,13,15,5,6,45.3,54.7,9,3,12,18,52097,Anthony Taylor,H
+10,1,2023-08-13,Everton,Newcastle,3,0,0.73,0.71,11,12,4,4,47.0,53.0,8,5,15,11,25949,Michael Oliver,H
+11,2,2023-08-19,Crystal Palace,Brentford,0,0,1.32,0.78,7,9,3,3,46.4,53.6,5,8,12,8,49168,Chris Kavanagh,D
+12,2,2023-08-19,Aston Villa,Liverpool,2,1,1.74,0.46,9,6,2,2,56.4,43.6,11,8,15,16,29817,Craig Pawson,H
+13,2,2023-08-21,Nottingham Forest,Brighton,4,0,1.49,1.2,16,8,6,2,45.1,54.9,10,4,16,11,60419,Paul Tierney,H
+14,2,2023-08-20,Fulham,Sheffield United,0,0,1.61,0.54,10,5,3,1,52.1,47.9,10,2,16,16,37924,Paul Tierney,D
+15,2,2023-08-19,Newcastle,Luton Town,1,0,0.63,0.27,17,3,5,0,55.1,44.9,8,1,8,19,34683,Craig Pawson,H
+16,2,2023-08-19,Tottenham,Manchester United,0,3,0.2,1.1,19,11,7,3,48.0,52.0,9,4,15,14,39129,Chris Kavanagh,A
+17,2,2023-08-19,West Ham,Chelsea,2,0,1.4,1.29,16,9,7,2,59.3,40.7,11,9,11,17,26938,Michael Oliver,H
+18,2,2023-08-20,Wolves,Arsenal,0,4,1.87,0.67,14,10,6,4,41.8,58.2,2,1,13,8,56187,Anthony Taylor,A
+19,2,2023-08-20,Everton,Burnley,2,1,0.73,0.33,16,7,6,2,55.5,44.5,4,9,12,13,35183,Simon Hooper,H
+20,2,2023-08-19,Manchester City,Bournemouth,3,0,1.55,0.61,5,5,3,1,53.7,46.3,10,9,14,12,30478,Craig Pawson,H
+21,3,2023-08-27,Wolves,Bournemouth,0,1,0.68,1.1,9,8,3,3,54.8,45.2,5,6,7,14,32199,Michael Oliver,A
+22,3,2023-08-28,Fulham,Sheffield United,1,1,1.75,0.91,17,6,7,1,52.7,47.3,9,5,9,14,58110,Craig Pawson,D
+23,3,2023-08-28,West Ham,Tottenham,0,0,1.31,1.36,12,8,4,2,51.4,48.6,5,1,9,7,59051,Michael Oliver,D
+24,3,2023-08-28,Arsenal,Crystal Palace,2,0,2.32,0.35,8,13,3,5,57.2,42.8,4,1,13,12,25951,Paul Tierney,H
+25,3,2023-08-27,Newcastle,Chelsea,0,2,1.33,0.87,10,14,4,5,50.2,49.8,5,1,9,13,20922,Chris Kavanagh,A
+26,3,2023-08-27,Everton,Luton Town,3,0,1.53,0.45,8,10,3,2,52.3,47.7,10,1,13,18,47306,Chris Kavanagh,H
+27,3,2023-08-26,Liverpool,Burnley,0,0,2.34,0.27,8,5,3,1,61.0,39.0,10,4,14,11,52409,Michael Oliver,D
+28,3,2023-08-26,Manchester United,Manchester City,2,1,0.85,0.81,12,15,4,4,32.3,67.7,8,1,9,15,57011,Craig Pawson,H
+29,3,2023-08-28,Aston Villa,Nottingham Forest,2,1,2.31,0.46,12,10,4,2,51.8,48.2,11,3,7,18,36438,Chris Kavanagh,H
+30,3,2023-08-27,Brentford,Brighton,0,1,0.2,0.64,11,15,5,5,48.9,51.1,3,1,10,10,39978,Anthony Taylor,A
+31,4,2023-09-03,Brighton,Crystal Palace,3,0,1.57,0.89,13,10,5,2,45.4,54.6,6,9,11,17,24263,Anthony Taylor,H
+32,4,2023-09-04,Newcastle,Manchester United,1,0,2.26,0.15,15,12,4,3,47.5,52.5,5,1,16,19,58890,Anthony Taylor,H
+33,4,2023-09-04,Manchester City,Fulham,4,0,3.44,0.27,12,15,5,3,51.3,48.7,2,7,15,11,39541,Anthony Taylor,H
+34,4,2023-09-04,Everton,Luton Town,0,0,0.8,0.22,12,12,4,3,56.0,44.0,8,4,6,19,28436,Chris Kavanagh,D
+35,4,2023-09-02,Aston Villa,Burnley,2,0,1.87,0.1,10,2,4,0,50.7,49.3,10,8,9,18,21828,Paul Tierney,H
+36,4,2023-09-02,Brentford,Sheffield United,2,1,0.37,0.97,8,3,3,1,57.8,42.2,6,6,12,7,31362,Chris Kavanagh,H
+37,4,2023-09-04,West Ham,Wolves,1,0,1.08,0.43,11,11,4,3,56.9,43.1,6,2,11,11,29903,Paul Tierney,H
+38,4,2023-09-04,Chelsea,Nottingham Forest,3,2,1.56,1.68,8,9,3,2,60.0,40.0,3,4,7,19,46588,Chris Kavanagh,H
+39,4,2023-09-03,Tottenham,Bournemouth,3,0,1.69,0.19,11,7,4,2,58.7,41.3,9,2,7,19,41195,Chris Kavanagh,H
+40,4,2023-09-04,Liverpool,Arsenal,4,0,2.97,1.15,13,9,5,2,51.1,48.9,4,1,17,14,52347,Paul Tierney,H
+41,5,2023-09-11,Manchester United,Sheffield United,1,0,2.48,1.81,7,6,2,1,50.0,50.0,2,4,9,15,58565,Michael Oliver,H
+42,5,2023-09-09,Bournemouth,Aston Villa,0,1,0.59,1.67,10,12,4,5,39.7,60.3,9,6,8,14,29768,Michael Oliver,A
+43,5,2023-09-09,Fulham,Wolves,0,0,0.67,0.84,5,9,2,3,50.3,49.7,4,6,14,12,46015,Michael Oliver,D
+44,5,2023-09-09,Arsenal,Newcastle,2,3,2.22,1.62,15,12,4,3,58.6,41.4,10,3,15,9,40022,Craig Pawson,A
+45,5,2023-09-10,Nottingham Forest,Crystal Palace,0,2,0.65,1.23,7,11,3,3,54.4,45.6,3,4,11,13,32201,Simon Hooper,A
+46,5,2023-09-09,Manchester City,Brighton,2,2,2.25,1.29,10,11,3,4,52.0,48.0,8,3,11,16,25724,Anthony Taylor,D
+47,5,2023-09-11,Burnley,Luton Town,1,1,1.02,1.72,11,4,3,1,43.8,56.2,11,4,10,8,21239,Simon Hooper,D
+48,5,2023-09-09,West Ham,Liverpool,2,0,1.6,1.91,9,7,4,1,33.6,66.4,7,5,11,8,58006,Anthony Taylor,H
+49,5,2023-09-09,Chelsea,Tottenham,2,6,1.47,1.58,10,11,4,6,47.9,52.1,10,5,14,17,45923,Anthony Taylor,A
+50,5,2023-09-10,Brentford,Everton,2,1,0.62,1.3,11,8,3,2,54.3,45.7,11,2,14,9,42612,Anthony Taylor,H
+51,6,2023-09-17,Manchester City,Wolves,2,3,2.73,1.5,13,11,5,3,60.2,39.8,8,7,13,7,44489,Paul Tierney,A
+52,6,2023-09-18,Burnley,Nottingham Forest,2,2,0.81,0.46,11,7,3,2,50.7,49.3,4,7,16,16,29160,Craig Pawson,D
+53,6,2023-09-17,Liverpool,Sheffield United,3,1,1.93,0.33,11,9,4,3,57.5,42.5,6,5,13,12,54503,Anthony Taylor,H
+54,6,2023-09-18,Aston Villa,Newcastle,0,0,2.0,0.49,12,11,5,4,50.2,49.8,10,7,15,15,23083,Michael Oliver,D
+55,6,2023-09-17,Brighton,Luton Town,1,0,0.95,0.25,12,3,4,0,57.5,42.5,10,9,6,17,58067,Craig Pawson,H
+56,6,2023-09-17,Everton,West Ham,0,2,0.47,1.43,11,14,4,3,51.2,48.8,5,9,9,19,43563,Chris Kavanagh,A
+57,6,2023-09-18,Crystal Palace,Fulham,0,0,0.2,0.43,12,6,5,2,51.1,48.9,10,3,10,15,48861,Craig Pawson,D
+58,6,2023-09-17,Tottenham,Bournemouth,3,1,1.29,0.87,12,8,4,2,51.4,48.6,7,5,15,13,60761,Paul Tierney,H
+59,6,2023-09-17,Chelsea,Arsenal,1,0,1.42,0.49,7,13,2,4,57.0,43.0,11,5,15,19,50911,Michael Oliver,H
+60,6,2023-09-18,Brentford,Manchester United,1,2,1.39,1.23,10,7,4,2,49.6,50.4,9,3,13,7,38052,Chris Kavanagh,A
+61,7,2023-09-24,Manchester City,Brentford,2,0,2.17,0.6,11,11,3,2,62.5,37.5,8,9,14,14,58714,Craig Pawson,H
+62,7,2023-09-25,Nottingham Forest,Sheffield United,1,0,0.44,0.44,15,7,6,2,55.0,45.0,7,3,12,19,49725,Chris Kavanagh,H
+63,7,2023-09-23,Arsenal,Fulham,0,0,2.42,0.83,8,9,3,2,52.5,47.5,10,2,10,15,35379,Simon Hooper,D
+64,7,2023-09-23,Chelsea,West Ham,0,1,1.81,1.12,15,3,4,1,36.2,63.8,5,1,12,13,22563,Paul Tierney,A
+65,7,2023-09-25,Tottenham,Crystal Palace,4,2,1.73,1.7,5,9,4,3,63.7,36.3,10,6,6,7,54051,Chris Kavanagh,H
+66,7,2023-09-23,Bournemouth,Burnley,1,1,1.3,1.16,9,1,4,1,53.3,46.7,4,5,8,16,45122,Craig Pawson,D
+67,7,2023-09-24,Newcastle,Liverpool,0,2,0.74,0.71,9,10,3,2,34.2,65.8,7,7,8,13,39675,Craig Pawson,A
+68,7,2023-09-23,Everton,Luton Town,1,0,0.46,0.47,5,7,1,2,60.7,39.3,6,5,7,11,54521,Paul Tierney,H
+69,7,2023-09-24,Brighton,Aston Villa,1,0,2.75,1.26,8,14,3,3,49.6,50.4,11,9,12,12,41008,Anthony Taylor,H
+70,7,2023-09-24,Wolves,Manchester United,3,0,0.63,0.44,12,7,3,2,48.7,51.3,5,6,13,14,50932,Craig Pawson,H
+71,8,2023-09-30,Chelsea,Tottenham,0,0,0.2,0.84,8,9,2,2,48.9,51.1,9,2,15,18,49139,Craig Pawson,D
+72,8,2023-09-30,Brighton,Newcastle,2,0,1.96,1.0,11,5,5,1,47.1,52.9,8,5,10,19,21283,Chris Kavanagh,H
+73,8,2023-10-01,Everton,Fulham,2,1,1.63,1.49,15,11,4,4,63.1,36.9,4,8,13,18,21958,Craig Pawson,H
+74,8,2023-09-30,Aston Villa,Burnley,3,0,1.92,0.33,15,9,7,2,62.2,37.8,10,8,13,16,54518,Craig Pawson,H
+75,8,2023-10-02,Liverpool,Nottingham Forest,1,2,2.29,0.85,17,6,6,2,59.6,40.4,6,3,14,17,46957,Craig Pawson,A
+76,8,2023-10-02,Luton Town,Arsenal,2,1,0.91,0.87,10,15,4,3,35.2,64.8,9,6,17,15,46649,Chris Kavanagh,H
+77,8,2023-09-30,Manchester City,Brentford,1,1,1.56,1.56,12,10,3,3,68.7,31.3,10,1,8,14,28333,Simon Hooper,D
+78,8,2023-10-02,Bournemouth,Crystal Palace,1,2,0.2,1.41,10,7,4,2,61.6,38.4,4,1,13,18,28210,Chris Kavanagh,A
+79,8,2023-10-02,Manchester United,West Ham,3,1,1.9,1.43,9,14,3,3,46.6,53.4,4,4,11,17,31777,Paul Tierney,H
+80,8,2023-10-02,Wolves,Sheffield United,0,0,0.69,0.1,3,10,1,4,52.2,47.8,4,9,12,14,35434,Anthony Taylor,D
+81,9,2023-10-07,Chelsea,Brighton,3,1,1.26,0.59,12,7,3,2,54.9,45.1,11,5,8,13,43173,Chris Kavanagh,H
+82,9,2023-10-08,Nottingham Forest,Crystal Palace,0,0,1.1,1.02,13,10,4,3,45.8,54.2,4,5,12,11,38951,Chris Kavanagh,D
+83,9,2023-10-08,Liverpool,Everton,2,2,2.35,1.61,15,7,5,2,66.3,33.7,9,7,16,17,32991,Michael Oliver,D
+84,9,2023-10-09,Fulham,West Ham,0,1,0.77,0.95,14,4,4,1,56.3,43.7,6,7,7,12,56188,Craig Pawson,A
+85,9,2023-10-08,Burnley,Brentford,2,0,1.5,0.74,6,12,2,3,44.4,55.6,4,8,8,18,30207,Anthony Taylor,H
+86,9,2023-10-07,Wolves,Sheffield United,0,1,1.63,0.48,9,2,3,1,47.7,52.3,10,5,10,9,43864,Michael Oliver,A
+87,9,2023-10-09,Luton Town,Tottenham,0,3,0.84,2.14,8,12,3,3,48.7,51.3,2,2,11,12,42736,Anthony Taylor,A
+88,9,2023-10-09,Bournemouth,Manchester United,3,1,0.81,1.16,16,7,7,2,42.3,57.7,2,4,14,15,32820,Chris Kavanagh,H
+89,9,2023-10-08,Arsenal,Newcastle,4,1,2.7,1.1,12,14,5,4,53.1,46.9,2,4,12,19,38156,Anthony Taylor,H
+90,9,2023-10-07,Manchester City,Aston Villa,1,2,2.04,1.41,8,13,2,5,52.8,47.2,6,6,13,8,28016,Chris Kavanagh,A
+91,10,2023-10-15,Nottingham Forest,Fulham,2,0,0.74,0.68,10,13,3,4,46.8,53.2,9,9,12,11,46423,Chris Kavanagh,H
+92,10,2023-10-16,Sheffield United,Tottenham,0,0,0.8,1.14,9,9,3,3,41.2,58.8,10,2,15,7,36241,Paul Tierney,D
+93,10,2023-10-16,Newcastle,Burnley,1,0,1.46,0.54,19,11,9,3,54.0,46.0,7,9,9,9,45851,Simon Hooper,H
+94,10,2023-10-15,Arsenal,Brighton,1,2,2.14,0.81,16,9,4,2,48.6,51.4,6,8,15,18,24967,Anthony Taylor,A
+95,10,2023-10-14,West Ham,Manchester United,2,1,1.46,0.65,11,4,4,1,48.1,51.9,3,4,9,11,21105,Chris Kavanagh,H
+96,10,2023-10-15,Aston Villa,Brentford,3,0,2.03,0.4,16,12,6,3,57.3,42.7,4,5,6,9,45966,Simon Hooper,H
+97,10,2023-10-14,Bournemouth,Manchester City,1,3,1.72,2.11,2,14,1,4,47.6,52.4,10,8,12,13,39540,Paul Tierney,A
+98,10,2023-10-15,Chelsea,Everton,2,3,1.45,1.33,9,8,4,3,51.2,48.8,10,1,16,16,47128,Michael Oliver,A
+99,10,2023-10-15,Luton Town,Liverpool,0,2,1.26,1.89,17,11,5,4,45.4,54.6,2,3,16,10,56258,Craig Pawson,A
+100,10,2023-10-16,Crystal Palace,Wolves,2,3,0.95,1.29,14,9,5,3,53.9,46.1,4,3,7,10,57327,Chris Kavanagh,A
+101,11,2023-10-21,Manchester United,Newcastle,2,2,1.13,0.95,10,5,3,2,51.4,48.6,9,1,7,12,60505,Paul Tierney,D
+102,11,2023-10-23,Arsenal,Everton,1,0,2.17,0.95,14,8,5,3,52.3,47.7,5,3,7,11,39233,Craig Pawson,H
+103,11,2023-10-21,Liverpool,Crystal Palace,4,0,2.54,0.14,20,8,7,3,62.3,37.7,11,6,11,7,57705,Anthony Taylor,H
+104,11,2023-10-22,Wolves,Aston Villa,4,3,1.8,1.4,15,9,6,3,48.3,51.7,8,2,11,9,25283,Simon Hooper,H
+105,11,2023-10-23,West Ham,Brentford,0,1,0.98,1.11,14,12,5,3,40.8,59.2,3,2,11,17,27352,Paul Tierney,A
+106,11,2023-10-23,Fulham,Chelsea,1,1,0.2,1.11,12,8,4,2,46.0,54.0,9,7,14,11,52828,Anthony Taylor,D
+107,11,2023-10-22,Sheffield United,Luton Town,1,0,1.1,0.9,12,7,3,1,49.5,50.5,6,6,17,8,33917,Craig Pawson,H
+108,11,2023-10-23,Burnley,Tottenham,1,2,1.05,2.03,6,10,2,3,39.8,60.2,11,1,7,8,25618,Paul Tierney,A
+109,11,2023-10-21,Brighton,Bournemouth,1,0,1.94,0.36,7,6,3,1,53.4,46.6,4,5,16,16,50075,Michael Oliver,H
+110,11,2023-10-22,Nottingham Forest,Manchester City,1,0,1.69,1.47,7,13,2,3,52.1,47.9,7,9,13,10,45307,Chris Kavanagh,H
+111,12,2023-10-28,Manchester City,Everton,0,0,2.04,1.42,16,4,7,1,66.0,34.0,8,4,6,9,44255,Chris Kavanagh,D
+112,12,2023-10-30,Sheffield United,Tottenham,3,3,1.04,1.32,6,7,3,3,42.8,57.2,2,2,7,18,53625,Anthony Taylor,D
+113,12,2023-10-29,Manchester United,Newcastle,2,3,1.75,1.99,13,13,6,5,62.6,37.4,6,4,17,7,35899,Michael Oliver,A
+114,12,2023-10-28,Wolves,West Ham,3,1,0.9,1.48,10,12,3,4,47.1,52.9,2,3,9,17,24594,Craig Pawson,H
+115,12,2023-10-30,Bournemouth,Liverpool,0,2,1.46,0.81,11,12,5,4,47.6,52.4,3,9,9,9,31094,Simon Hooper,A
+116,12,2023-10-30,Crystal Palace,Brighton,6,0,1.56,0.29,12,11,6,3,51.4,48.6,2,2,9,8,37519,Michael Oliver,H
+117,12,2023-10-29,Aston Villa,Chelsea,3,0,2.23,1.32,13,7,5,2,56.4,43.6,8,8,16,11,60150,Michael Oliver,H
+118,12,2023-10-30,Brentford,Burnley,1,0,1.77,0.57,17,4,6,1,58.2,41.8,6,4,8,11,46616,Chris Kavanagh,H
+119,12,2023-10-30,Arsenal,Luton Town,1,0,1.6,0.1,12,4,5,1,56.4,43.6,7,2,12,17,54779,Craig Pawson,H
+120,12,2023-10-30,Fulham,Nottingham Forest,0,1,1.37,0.84,10,8,4,3,66.1,33.9,8,7,6,15,40519,Chris Kavanagh,A
+121,13,2023-11-06,Burnley,Tottenham,0,0,0.2,1.07,7,6,3,1,58.3,41.7,2,5,9,15,46910,Craig Pawson,D
+122,13,2023-11-06,Brighton,Manchester City,2,1,2.86,2.33,9,8,3,3,50.4,49.6,9,8,16,16,21134,Simon Hooper,H
+123,13,2023-11-05,Crystal Palace,Aston Villa,3,4,1.87,1.91,12,12,5,4,52.2,47.8,2,9,9,15,54485,Michael Oliver,A
+124,13,2023-11-04,Arsenal,Manchester United,3,2,2.43,0.74,10,12,3,3,50.7,49.3,4,2,13,9,61830,Chris Kavanagh,H
+125,13,2023-11-05,Wolves,Nottingham Forest,3,1,1.86,0.44,10,8,4,2,49.3,50.7,5,6,17,17,36567,Chris Kavanagh,H
+126,13,2023-11-04,Newcastle,Liverpool,0,0,0.75,1.83,14,7,4,3,47.5,52.5,4,9,10,18,35641,Anthony Taylor,D
+127,13,2023-11-06,Chelsea,Sheffield United,1,0,2.04,0.15,15,8,5,2,62.8,37.2,8,4,16,8,32948,Chris Kavanagh,H
+128,13,2023-11-06,Bournemouth,Everton,2,0,1.81,0.41,13,4,6,1,60.8,39.2,8,8,11,18,23961,Craig Pawson,H
+129,13,2023-11-05,West Ham,Brentford,0,1,0.73,0.74,12,9,4,3,60.1,39.9,9,6,16,19,29968,Paul Tierney,A
+130,13,2023-11-06,Fulham,Luton Town,2,2,1.32,1.54,16,5,6,2,47.2,52.8,11,8,13,19,42908,Michael Oliver,D
+131,14,2023-11-11,Burnley,West Ham,1,0,0.97,0.87,6,7,2,2,44.9,55.1,8,6,15,8,48430,Anthony Taylor,H
+132,14,2023-11-11,Arsenal,Nottingham Forest,0,0,1.9,0.1,23,9,9,3,61.0,39.0,3,1,16,15,45416,Anthony Taylor,D
+133,14,2023-11-11,Sheffield United,Wolves,1,0,1.05,1.07,6,7,2,2,37.1,62.9,11,2,11,17,58218,Michael Oliver,H
+134,14,2023-11-11,Bournemouth,Brentford,2,0,1.76,1.36,10,6,3,1,45.0,55.0,9,5,15,10,22843,Craig Pawson,H
+135,14,2023-11-13,Manchester United,Everton,1,0,1.25,0.1,7,8,2,2,53.4,46.6,3,6,9,12,20691,Chris Kavanagh,H
+136,14,2023-11-13,Tottenham,Crystal Palace,2,1,1.39,1.08,13,5,4,1,49.5,50.5,10,5,8,11,20287,Anthony Taylor,H
+137,14,2023-11-13,Chelsea,Fulham,0,1,0.2,1.67,11,7,4,2,57.6,42.4,3,8,9,18,30770,Anthony Taylor,A
+138,14,2023-11-12,Aston Villa,Liverpool,0,2,1.43,0.91,14,8,4,2,47.2,52.8,10,2,15,15,25543,Michael Oliver,A
+139,14,2023-11-12,Manchester City,Luton Town,0,1,2.06,0.53,14,8,4,2,59.8,40.2,3,6,13,12,33731,Craig Pawson,A
+140,14,2023-11-12,Brighton,Newcastle,3,0,1.62,1.23,9,12,3,3,52.2,47.8,2,7,12,18,45256,Craig Pawson,H
+141,15,2023-11-20,Chelsea,West Ham,3,1,2.05,0.79,6,12,3,3,58.5,41.5,5,3,11,9,60037,Simon Hooper,H
+142,15,2023-11-19,Luton Town,Burnley,1,0,1.07,1.63,6,6,2,2,46.0,54.0,5,6,6,16,37627,Michael Oliver,H
+143,15,2023-11-20,Wolves,Crystal Palace,6,3,1.38,0.57,8,8,6,3,56.4,43.6,5,8,14,9,34693,Anthony Taylor,H
+144,15,2023-11-18,Liverpool,Brentford,3,0,2.84,0.1,9,6,3,2,53.3,46.7,8,2,14,19,24386,Paul Tierney,H
+145,15,2023-11-19,Nottingham Forest,Manchester City,0,1,0.35,2.58,13,9,5,2,44.0,56.0,8,6,11,18,29927,Craig Pawson,A
+146,15,2023-11-19,Sheffield United,Manchester United,0,1,0.2,1.33,5,9,2,2,49.4,50.6,7,9,12,15,29782,Simon Hooper,A
+147,15,2023-11-18,Newcastle,Aston Villa,2,0,1.91,0.55,13,10,5,2,53.5,46.5,4,3,15,18,44604,Simon Hooper,H
+148,15,2023-11-18,Brighton,Fulham,1,0,1.03,0.1,11,7,3,2,62.5,37.5,6,1,15,17,29837,Michael Oliver,H
+149,15,2023-11-19,Tottenham,Arsenal,0,2,1.63,1.63,14,11,4,3,47.7,52.3,10,2,8,16,61863,Craig Pawson,A
+150,15,2023-11-18,Bournemouth,Everton,0,0,1.8,0.1,13,8,6,3,48.7,51.3,2,3,16,13,26869,Craig Pawson,D
+151,16,2023-11-25,Everton,Fulham,2,0,1.98,0.61,8,11,3,4,43.6,56.4,3,9,15,8,28488,Craig Pawson,H
+152,16,2023-11-26,Chelsea,Manchester United,0,0,1.67,0.93,12,6,4,1,48.6,51.4,10,2,8,13,24818,Michael Oliver,D
+153,16,2023-11-25,Wolves,West Ham,0,0,1.27,0.37,7,7,2,2,51.4,48.6,10,4,13,15,26297,Chris Kavanagh,D
+154,16,2023-11-26,Newcastle,Arsenal,3,0,0.78,2.35,15,7,5,1,49.9,50.1,6,3,10,19,43849,Paul Tierney,H
+155,16,2023-11-26,Brentford,Crystal Palace,0,3,0.43,1.27,14,6,4,3,49.9,50.1,8,7,11,9,49265,Simon Hooper,A
+156,16,2023-11-27,Tottenham,Nottingham Forest,1,2,2.19,0.5,17,5,5,2,50.1,49.9,11,1,12,17,35881,Anthony Taylor,A
+157,16,2023-11-27,Aston Villa,Brighton,1,0,1.51,0.83,10,3,4,0,53.5,46.5,9,3,9,12,25178,Michael Oliver,H
+158,16,2023-11-27,Sheffield United,Liverpool,1,3,0.85,1.52,8,10,3,4,38.4,61.6,2,8,9,13,58737,Anthony Taylor,A
+159,16,2023-11-27,Manchester City,Bournemouth,1,1,1.3,0.77,19,8,6,2,54.8,45.2,10,6,13,17,34645,Anthony Taylor,D
+160,16,2023-11-26,Luton Town,Burnley,0,0,0.52,0.1,11,5,3,2,61.0,39.0,7,2,12,19,29637,Simon Hooper,D
+161,17,2023-12-03,Chelsea,Tottenham,2,0,1.61,1.12,11,12,5,4,49.0,51.0,4,2,15,10,54886,Anthony Taylor,H
+162,17,2023-12-04,West Ham,Crystal Palace,0,0,0.38,1.07,10,3,3,0,49.8,50.2,8,3,11,15,61910,Chris Kavanagh,D
+163,17,2023-12-02,Fulham,Nottingham Forest,0,1,0.38,0.1,8,5,2,2,50.9,49.1,2,4,10,19,55525,Paul Tierney,A
+164,17,2023-12-02,Bournemouth,Liverpool,0,1,0.38,1.09,6,11,2,4,47.8,52.2,8,2,9,13,55474,Anthony Taylor,A
+165,17,2023-12-02,Arsenal,Brighton,2,1,1.37,1.75,12,6,4,2,56.2,43.8,3,7,15,7,57711,Craig Pawson,H
+166,17,2023-12-04,Aston Villa,Manchester United,0,0,1.36,1.67,17,9,5,2,46.8,53.2,11,3,17,14,61679,Michael Oliver,D
+167,17,2023-12-02,Sheffield United,Brentford,1,0,0.91,0.5,8,7,2,2,51.2,48.8,2,5,7,14,39385,Simon Hooper,H
+168,17,2023-12-03,Everton,Burnley,1,0,0.2,0.38,4,6,1,1,52.8,47.2,10,1,7,11,31049,Simon Hooper,H
+169,17,2023-12-03,Newcastle,Luton Town,2,2,1.88,0.36,16,7,7,2,64.2,35.8,8,1,15,15,37107,Simon Hooper,D
+170,17,2023-12-03,Manchester City,Wolves,3,0,2.41,1.32,10,8,4,3,58.6,41.4,4,2,17,19,44813,Craig Pawson,H
+171,18,2023-12-10,Crystal Palace,Arsenal,2,0,0.65,1.86,8,13,2,5,44.3,55.7,8,2,14,16,21936,Michael Oliver,H
+172,18,2023-12-09,Manchester City,Everton,3,0,2.46,0.43,9,5,3,1,60.0,40.0,5,5,9,14,43331,Paul Tierney,H
+173,18,2023-12-09,Sheffield United,West Ham,0,0,0.2,1.22,9,6,3,2,49.0,51.0,3,8,17,15,20755,Chris Kavanagh,D
+174,18,2023-12-10,Brentford,Wolves,0,1,0.86,1.63,2,6,0,2,51.9,48.1,7,2,13,14,52427,Paul Tierney,A
+175,18,2023-12-11,Nottingham Forest,Newcastle,1,2,0.82,1.31,10,14,4,3,52.6,47.4,3,5,11,18,33569,Paul Tierney,A
+176,18,2023-12-11,Manchester United,Liverpool,2,1,1.29,1.27,14,9,5,3,48.4,51.6,5,5,11,7,49571,Simon Hooper,H
+177,18,2023-12-10,Tottenham,Chelsea,1,1,1.76,1.11,21,7,8,2,53.3,46.7,9,3,10,8,20877,Anthony Taylor,D
+178,18,2023-12-09,Brighton,Burnley,4,2,2.17,0.53,10,11,4,4,56.4,43.6,10,2,17,16,56175,Chris Kavanagh,H
+179,18,2023-12-11,Bournemouth,Luton Town,0,4,0.55,1.36,9,5,4,4,48.0,52.0,9,3,16,8,56790,Michael Oliver,A
+180,18,2023-12-11,Aston Villa,Fulham,4,0,2.64,1.09,17,7,8,2,56.9,43.1,2,2,10,19,20402,Craig Pawson,H
+181,19,2023-12-17,Manchester United,Crystal Palace,0,0,1.02,0.89,14,6,4,1,48.0,52.0,4,4,7,7,34157,Michael Oliver,D
+182,19,2023-12-16,Brighton,Manchester City,3,1,1.64,2.04,9,10,4,3,46.9,53.1,4,5,8,15,45752,Paul Tierney,H
+183,19,2023-12-18,Chelsea,Arsenal,3,2,1.44,1.18,6,19,3,5,44.8,55.2,5,3,6,11,41969,Paul Tierney,H
+184,19,2023-12-16,Sheffield United,Burnley,0,1,0.66,0.43,4,5,1,1,47.8,52.2,2,7,17,12,49841,Craig Pawson,A
+185,19,2023-12-16,Tottenham,West Ham,0,3,1.39,1.44,8,11,2,3,55.3,44.7,7,7,9,14,50936,Michael Oliver,A
+186,19,2023-12-18,Newcastle,Bournemouth,3,0,1.66,1.63,16,6,7,2,55.0,45.0,4,6,11,16,31826,Simon Hooper,H
+187,19,2023-12-17,Liverpool,Everton,1,1,1.4,0.42,16,5,6,1,54.0,46.0,4,8,17,15,31559,Paul Tierney,D
+188,19,2023-12-16,Brentford,Nottingham Forest,1,1,1.33,1.45,10,13,4,4,48.2,51.8,4,3,13,11,30109,Paul Tierney,D
+189,19,2023-12-16,Aston Villa,Wolves,2,0,2.35,0.52,12,10,5,4,57.3,42.7,2,4,6,12,43790,Paul Tierney,H
+190,19,2023-12-16,Luton Town,Fulham,0,1,0.66,0.84,8,6,2,1,44.3,55.7,7,5,12,18,59649,Paul Tierney,A
+191,20,2023-12-24,Fulham,Bournemouth,1,2,0.85,0.89,7,13,3,5,57.3,42.7,7,8,10,17,43183,Michael Oliver,A
+192,20,2023-12-23,Luton Town,Tottenham,1,0,1.07,1.44,7,13,2,4,48.2,51.8,10,6,9,10,43916,Craig Pawson,H
+193,20,2023-12-23,Crystal Palace,Nottingham Forest,1,0,1.19,0.27,19,11,7,3,52.5,47.5,4,6,15,12,53332,Anthony Taylor,H
+194,20,2023-12-25,Sheffield United,Arsenal,0,2,0.43,1.75,7,22,2,8,46.3,53.7,7,9,7,17,47328,Anthony Taylor,A
+195,20,2023-12-25,Chelsea,Manchester City,0,1,0.34,1.7,12,17,5,4,46.0,54.0,3,9,12,10,30737,Paul Tierney,A
+196,20,2023-12-23,Brighton,Burnley,1,0,1.61,0.12,6,5,2,2,53.5,46.5,3,2,14,8,54881,Paul Tierney,H
+197,20,2023-12-25,Manchester United,Liverpool,0,0,0.67,0.84,8,10,2,2,47.8,52.2,5,2,8,15,60164,Anthony Taylor,D
+198,20,2023-12-24,Wolves,Aston Villa,0,2,0.39,0.36,12,4,5,2,39.3,60.7,10,6,13,16,34670,Paul Tierney,A
+199,20,2023-12-24,Newcastle,West Ham,0,2,0.43,0.92,6,9,2,3,53.6,46.4,10,9,15,8,41059,Michael Oliver,A
+200,20,2023-12-23,Brentford,Everton,1,1,1.46,1.41,13,6,4,2,57.9,42.1,5,2,16,13,59897,Anthony Taylor,D
+201,21,2024-01-01,Crystal Palace,Brentford,1,0,1.0,0.97,10,10,4,3,51.2,48.8,2,2,7,11,28989,Anthony Taylor,H
+202,21,2024-01-01,Nottingham Forest,Everton,0,2,0.2,1.19,10,6,3,2,50.0,50.0,11,2,8,12,38562,Anthony Taylor,A
+203,21,2024-01-01,Sheffield United,Liverpool,0,5,0.2,1.65,8,10,2,5,36.9,63.1,3,8,12,8,21906,Anthony Taylor,A
+204,21,2024-01-01,Manchester City,Newcastle,0,0,1.58,1.3,18,10,5,3,60.0,40.0,9,4,8,18,40710,Chris Kavanagh,D
+205,21,2024-01-01,West Ham,Fulham,1,0,0.47,0.1,11,4,5,1,58.3,41.7,7,4,7,15,23457,Michael Oliver,H
+206,21,2023-12-30,Burnley,Luton Town,0,2,1.75,0.83,11,7,3,2,46.0,54.0,9,2,12,8,34842,Anthony Taylor,A
+207,21,2023-12-31,Arsenal,Brighton,3,0,2.08,0.56,11,7,4,2,50.3,49.7,4,5,12,14,59500,Anthony Taylor,H
+208,21,2023-12-31,Tottenham,Chelsea,1,1,1.7,0.95,16,8,5,2,59.3,40.7,4,1,10,8,60874,Chris Kavanagh,D
+209,21,2023-12-31,Bournemouth,Wolves,1,0,0.77,0.1,7,12,2,4,51.0,49.0,9,6,16,15,51007,Chris Kavanagh,H
+210,21,2024-01-01,Manchester United,Aston Villa,2,0,1.53,1.73,6,13,2,3,54.9,45.1,6,5,7,17,23435,Anthony Taylor,H
+211,22,2024-01-07,Manchester City,Luton Town,3,0,1.86,0.14,19,7,6,2,64.2,35.8,4,4,17,19,54625,Anthony Taylor,H
+212,22,2024-01-08,Nottingham Forest,Brentford,1,0,2.09,0.45,4,4,1,1,49.7,50.3,9,7,12,11,27637,Anthony Taylor,H
+213,22,2024-01-07,Wolves,West Ham,0,0,0.36,0.72,9,9,2,3,48.3,51.7,7,4,15,8,42936,Craig Pawson,D
+214,22,2024-01-07,Fulham,Tottenham,6,2,1.73,1.03,11,5,6,2,42.9,57.1,5,3,8,18,52980,Simon Hooper,H
+215,22,2024-01-06,Bournemouth,Arsenal,1,1,1.47,1.47,9,5,3,1,50.9,49.1,7,1,11,18,41630,Paul Tierney,D
+216,22,2024-01-08,Manchester United,Burnley,4,0,1.73,0.13,16,8,6,2,61.9,38.1,2,1,9,12,30972,Michael Oliver,H
+217,22,2024-01-06,Liverpool,Crystal Palace,0,0,1.46,0.1,15,10,5,2,58.7,41.3,9,6,9,19,61757,Chris Kavanagh,D
+218,22,2024-01-06,Brighton,Newcastle,0,0,0.65,1.69,12,10,5,3,52.8,47.2,9,1,7,19,45692,Anthony Taylor,D
+219,22,2024-01-06,Chelsea,Aston Villa,5,0,2.02,1.23,13,10,5,3,42.3,57.7,8,2,11,14,37459,Simon Hooper,H
+220,22,2024-01-07,Everton,Sheffield United,3,4,1.22,1.53,6,7,3,4,44.8,55.2,7,8,11,15,61169,Michael Oliver,A
+221,23,2024-01-15,Manchester City,Manchester United,4,0,3.55,1.06,20,9,8,2,60.0,40.0,2,4,12,16,28458,Craig Pawson,H
+222,23,2024-01-13,Wolves,Everton,4,1,1.99,1.41,19,5,8,1,56.0,44.0,5,5,10,10,45112,Anthony Taylor,H
+223,23,2024-01-13,Luton Town,Fulham,0,0,1.19,0.88,14,6,6,1,43.5,56.5,6,2,14,17,36956,Anthony Taylor,D
+224,23,2024-01-13,Liverpool,Arsenal,2,3,1.73,1.84,7,11,2,3,52.4,47.6,6,4,6,10,52450,Anthony Taylor,A
+225,23,2024-01-13,West Ham,Newcastle,1,2,1.16,2.02,13,12,5,3,57.9,42.1,6,8,9,19,54523,Simon Hooper,A
+226,23,2024-01-15,Brentford,Aston Villa,1,0,1.38,0.77,14,8,6,3,56.8,43.2,2,8,6,11,36440,Chris Kavanagh,H
+227,23,2024-01-15,Burnley,Chelsea,0,1,0.2,0.27,5,11,1,4,44.7,55.3,5,4,6,19,31688,Anthony Taylor,A
+228,23,2024-01-15,Nottingham Forest,Tottenham,0,1,0.55,0.52,9,10,3,3,50.2,49.8,11,7,11,16,35754,Michael Oliver,A
+229,23,2024-01-15,Bournemouth,Crystal Palace,4,0,2.3,1.55,9,7,4,2,45.5,54.5,4,5,6,16,33877,Anthony Taylor,H
+230,23,2024-01-14,Brighton,Sheffield United,0,2,0.2,0.89,10,11,3,4,52.1,47.9,8,9,11,9,35407,Craig Pawson,A
+231,24,2024-01-22,Brighton,Crystal Palace,2,0,2.18,0.43,18,10,6,2,49.7,50.3,10,9,11,13,45761,Michael Oliver,H
+232,24,2024-01-20,Aston Villa,Bournemouth,0,3,0.98,0.72,17,9,6,3,52.7,47.3,5,4,15,13,49217,Chris Kavanagh,A
+233,24,2024-01-20,Manchester United,Arsenal,1,1,2.09,0.6,8,6,3,1,42.8,57.2,2,9,15,14,61876,Paul Tierney,D
+234,24,2024-01-20,Sheffield United,West Ham,0,0,0.36,0.95,12,11,3,2,54.0,46.0,4,7,9,19,52069,Craig Pawson,D
+235,24,2024-01-21,Fulham,Chelsea,1,4,1.87,1.89,14,9,4,4,44.6,55.4,7,8,15,18,42948,Michael Oliver,A
+236,24,2024-01-20,Wolves,Burnley,1,3,1.26,1.65,10,10,3,4,54.7,45.3,5,8,9,17,48583,Craig Pawson,A
+237,24,2024-01-20,Nottingham Forest,Liverpool,0,4,0.96,2.41,9,15,2,5,50.9,49.1,9,2,6,17,25122,Paul Tierney,A
+238,24,2024-01-20,Manchester City,Luton Town,6,0,2.72,1.61,18,6,6,2,63.5,36.5,5,6,13,15,47713,Craig Pawson,H
+239,24,2024-01-20,Tottenham,Brentford,1,1,1.73,1.09,10,8,4,3,56.3,43.7,9,3,10,13,32363,Craig Pawson,D
+240,24,2024-01-22,Newcastle,Everton,0,0,1.05,0.47,16,9,7,2,59.1,40.9,10,4,9,15,45964,Chris Kavanagh,D
+241,25,2024-01-29,Wolves,Newcastle,1,1,0.26,1.21,13,16,5,6,53.4,46.6,8,3,13,8,22402,Michael Oliver,D
+242,25,2024-01-27,Sheffield United,Liverpool,0,0,0.76,1.12,4,13,1,4,33.9,66.1,3,6,12,7,57067,Paul Tierney,D
+243,25,2024-01-28,Manchester City,Manchester United,3,0,1.47,2.12,16,5,7,1,55.2,44.8,9,3,15,16,21245,Michael Oliver,H
+244,25,2024-01-29,Arsenal,Chelsea,1,1,1.73,1.31,13,13,5,3,54.5,45.5,6,6,7,9,24477,Craig Pawson,D
+245,25,2024-01-27,Crystal Palace,Fulham,0,1,0.23,0.6,10,10,3,3,60.3,39.7,5,9,8,8,39544,Michael Oliver,A
+246,25,2024-01-29,Everton,Nottingham Forest,3,0,0.95,0.9,13,6,3,2,49.8,50.2,11,6,17,14,36105,Chris Kavanagh,H
+247,25,2024-01-27,West Ham,Aston Villa,3,0,1.75,0.84,13,13,5,5,48.2,51.8,7,7,15,7,42391,Chris Kavanagh,H
+248,25,2024-01-29,Tottenham,Brentford,0,0,1.52,1.22,15,3,6,0,45.1,54.9,3,4,15,11,57305,Chris Kavanagh,D
+249,25,2024-01-28,Burnley,Luton Town,0,1,1.9,0.42,16,6,6,1,50.9,49.1,2,7,9,12,28983,Paul Tierney,A
+250,25,2024-01-29,Bournemouth,Brighton,1,1,1.37,0.85,7,7,2,3,46.6,53.4,5,4,12,15,27838,Simon Hooper,D
+251,26,2024-02-04,Burnley,Arsenal,1,2,0.49,1.75,8,10,2,2,37.7,62.3,5,3,12,15,55794,Paul Tierney,A
+252,26,2024-02-03,Newcastle,Manchester United,1,1,1.65,1.2,10,7,4,2,59.6,40.4,8,6,11,11,29187,Simon Hooper,D
+253,26,2024-02-05,Manchester City,Sheffield United,1,0,1.4,0.1,14,5,5,1,52.6,47.4,2,3,15,16,37430,Anthony Taylor,H
+254,26,2024-02-03,Crystal Palace,Luton Town,2,0,0.89,1.27,13,12,4,5,53.2,46.8,7,3,6,12,59802,Craig Pawson,H
+255,26,2024-02-03,Everton,Tottenham,2,1,1.6,1.29,6,5,2,1,47.9,52.1,2,2,6,14,50276,Simon Hooper,H
+256,26,2024-02-03,Bournemouth,Chelsea,1,2,1.66,0.85,9,13,3,4,45.6,54.4,11,9,8,18,20690,Anthony Taylor,A
+257,26,2024-02-04,West Ham,Liverpool,1,0,0.46,2.03,6,11,2,4,59.6,40.4,6,9,14,15,37376,Anthony Taylor,H
+258,26,2024-02-05,Wolves,Brighton,2,0,1.98,0.24,10,9,3,2,48.4,51.6,9,8,14,12,55157,Anthony Taylor,H
+259,26,2024-02-03,Fulham,Nottingham Forest,0,0,0.2,0.97,11,4,3,1,50.4,49.6,9,2,16,7,33824,Chris Kavanagh,D
+260,26,2024-02-04,Aston Villa,Brentford,0,1,1.41,1.21,10,9,3,3,56.4,43.6,7,4,17,7,50554,Michael Oliver,A
+261,27,2024-02-11,Nottingham Forest,Wolves,3,0,1.04,1.35,9,8,3,2,50.5,49.5,8,7,13,11,26212,Michael Oliver,H
+262,27,2024-02-10,Brighton,Luton Town,1,0,0.7,0.48,12,8,5,3,62.6,37.4,11,9,8,9,40622,Michael Oliver,H
+263,27,2024-02-11,Crystal Palace,Newcastle,4,0,2.24,0.63,13,14,4,4,54.9,45.1,11,5,12,17,49765,Anthony Taylor,H
+264,27,2024-02-12,Sheffield United,Aston Villa,0,0,0.2,1.16,9,9,3,3,41.0,59.0,9,8,17,11,21079,Anthony Taylor,D
+265,27,2024-02-11,Burnley,Arsenal,1,5,0.2,2.13,14,14,6,5,39.6,60.4,3,6,13,10,55096,Chris Kavanagh,A
+266,27,2024-02-11,Chelsea,Brentford,0,3,1.28,1.61,18,5,5,3,62.4,37.6,3,3,15,15,49414,Michael Oliver,A
+267,27,2024-02-12,Manchester City,Everton,3,0,3.5,0.1,22,10,8,3,56.1,43.9,6,6,6,15,43869,Simon Hooper,H
+268,27,2024-02-10,Liverpool,West Ham,3,0,1.76,1.67,11,8,3,2,54.3,45.7,7,2,7,10,51358,Michael Oliver,H
+269,27,2024-02-12,Bournemouth,Tottenham,2,0,1.75,2.27,10,15,4,4,51.2,48.8,3,5,6,15,49430,Simon Hooper,H
+270,27,2024-02-11,Manchester United,Fulham,0,0,0.2,1.13,16,7,6,2,56.8,43.2,4,1,12,7,41040,Michael Oliver,D
+271,28,2024-02-17,West Ham,Wolves,1,0,1.12,1.1,11,8,4,3,60.7,39.3,3,4,8,13,24761,Craig Pawson,H
+272,28,2024-02-19,Tottenham,Everton,1,1,2.24,1.26,8,3,3,1,58.2,41.8,4,5,8,17,37529,Simon Hooper,D
+273,28,2024-02-18,Manchester United,Arsenal,2,2,1.81,1.33,11,15,4,4,46.8,53.2,7,5,17,17,48161,Anthony Taylor,D
+274,28,2024-02-18,Crystal Palace,Burnley,1,1,0.87,0.48,11,7,4,2,48.2,51.8,7,6,15,18,31284,Anthony Taylor,D
+275,28,2024-02-19,Sheffield United,Nottingham Forest,0,0,0.79,0.55,9,8,2,3,56.1,43.9,2,8,17,17,21525,Michael Oliver,D
+276,28,2024-02-19,Liverpool,Brentford,2,1,1.5,1.07,17,5,7,1,60.3,39.7,3,2,6,16,46177,Paul Tierney,H
+277,28,2024-02-18,Aston Villa,Luton Town,3,3,0.99,1.47,12,6,4,3,59.0,41.0,2,4,16,16,53099,Craig Pawson,D
+278,28,2024-02-18,Bournemouth,Newcastle,2,1,1.11,0.5,10,12,4,4,47.3,52.7,8,5,10,17,34440,Chris Kavanagh,H
+279,28,2024-02-19,Manchester City,Chelsea,3,2,2.37,1.38,11,9,5,2,62.7,37.3,5,3,15,8,41061,Simon Hooper,H
+280,28,2024-02-19,Brighton,Fulham,2,0,2.5,0.2,15,10,7,3,36.8,63.2,4,5,15,14,37675,Michael Oliver,H
+281,29,2024-02-25,Bournemouth,Brighton,0,0,1.11,1.78,4,5,1,1,45.2,54.8,6,6,7,13,53038,Michael Oliver,D
+282,29,2024-02-25,Fulham,Aston Villa,0,0,0.5,1.36,10,15,3,3,38.7,61.3,3,8,13,8,39340,Craig Pawson,D
+283,29,2024-02-26,Liverpool,Sheffield United,4,1,1.21,0.77,17,6,7,1,55.7,44.3,5,5,14,13,56723,Craig Pawson,H
+284,29,2024-02-24,Wolves,West Ham,0,0,1.95,0.5,11,9,4,3,51.9,48.1,6,3,13,12,28065,Anthony Taylor,D
+285,29,2024-02-26,Manchester United,Burnley,1,0,1.78,1.03,8,4,3,1,52.6,47.4,4,7,14,17,54283,Simon Hooper,H
+286,29,2024-02-26,Brentford,Luton Town,0,0,0.2,0.16,11,4,4,1,59.0,41.0,2,2,10,15,37199,Chris Kavanagh,D
+287,29,2024-02-25,Everton,Tottenham,2,2,1.03,1.22,10,10,4,3,54.1,45.9,3,8,8,13,51815,Simon Hooper,D
+288,29,2024-02-24,Arsenal,Manchester City,1,3,1.89,2.04,14,12,6,5,51.5,48.5,7,7,15,13,61628,Chris Kavanagh,A
+289,29,2024-02-25,Chelsea,Crystal Palace,6,0,2.15,0.1,10,6,6,1,54.7,45.3,6,8,14,14,26683,Craig Pawson,H
+290,29,2024-02-24,Nottingham Forest,Newcastle,0,1,0.35,1.62,14,14,6,5,52.8,47.2,7,7,16,11,54269,Paul Tierney,A
+291,30,2024-03-02,Brighton,Liverpool,0,1,0.8,1.38,18,17,6,5,46.7,53.3,2,7,6,15,56843,Simon Hooper,A
+292,30,2024-03-02,Crystal Palace,Luton Town,0,0,0.6,1.01,12,9,4,3,55.0,45.0,5,5,10,14,60934,Paul Tierney,D
+293,30,2024-03-04,West Ham,Tottenham,0,0,0.25,0.68,12,14,5,6,49.7,50.3,2,5,15,18,60399,Anthony Taylor,D
+294,30,2024-03-03,Fulham,Burnley,4,2,1.57,0.4,8,6,4,2,58.6,41.4,3,3,8,15,39043,Michael Oliver,H
+295,30,2024-03-02,Nottingham Forest,Manchester United,1,0,1.17,1.4,6,6,2,1,51.0,49.0,11,4,14,13,41300,Paul Tierney,H
+296,30,2024-03-04,Aston Villa,Wolves,2,2,1.7,0.87,10,11,4,3,55.2,44.8,4,2,7,15,46483,Anthony Taylor,D
+297,30,2024-03-02,Arsenal,Bournemouth,1,1,0.93,0.87,10,6,4,2,53.3,46.7,8,4,16,17,47567,Michael Oliver,D
+298,30,2024-03-04,Manchester City,Sheffield United,0,0,1.09,0.26,13,3,6,1,62.4,37.6,2,9,15,12,52875,Paul Tierney,D
+299,30,2024-03-02,Chelsea,Brentford,4,0,1.83,1.0,15,14,5,3,63.7,36.3,6,3,12,8,35932,Simon Hooper,H
+300,30,2024-03-04,Everton,Newcastle,3,2,0.84,1.11,9,4,3,2,55.7,44.3,6,7,16,12,35701,Chris Kavanagh,H
+301,31,2024-03-10,Fulham,Manchester City,1,0,0.84,1.8,10,11,3,3,41.2,58.8,7,8,13,10,49685,Craig Pawson,H
+302,31,2024-03-10,Sheffield United,Arsenal,0,3,0.55,2.02,5,16,2,5,39.2,60.8,9,1,10,9,41175,Simon Hooper,A
+303,31,2024-03-10,Newcastle,Liverpool,2,1,2.14,1.87,6,7,2,2,44.5,55.5,6,1,11,19,41686,Michael Oliver,H
+304,31,2024-03-11,Everton,Nottingham Forest,0,1,2.21,0.6,11,3,3,1,49.7,50.3,2,9,6,7,36206,Chris Kavanagh,A
+305,31,2024-03-09,Luton Town,Brighton,0,0,1.46,0.49,5,16,1,5,53.9,46.1,2,3,17,15,40282,Paul Tierney,D
+306,31,2024-03-09,Aston Villa,Crystal Palace,1,2,2.93,1.48,9,9,3,3,56.0,44.0,11,4,6,19,22913,Craig Pawson,A
+307,31,2024-03-09,Bournemouth,Burnley,0,1,0.41,1.07,10,6,3,2,56.0,44.0,7,4,6,15,42485,Paul Tierney,A
+308,31,2024-03-10,Manchester United,Wolves,2,1,2.06,1.21,18,7,8,1,58.9,41.1,6,2,17,19,38800,Michael Oliver,H
+309,31,2024-03-11,West Ham,Tottenham,1,0,2.04,0.1,17,12,6,4,53.8,46.2,4,7,9,10,53746,Anthony Taylor,H
+310,31,2024-03-09,Brentford,Chelsea,0,0,1.92,0.87,8,9,3,3,55.5,44.5,4,6,15,11,21885,Chris Kavanagh,D
+311,32,2024-03-18,Nottingham Forest,West Ham,2,0,1.5,0.63,10,10,3,3,52.1,47.9,6,9,9,18,43608,Simon Hooper,H
+312,32,2024-03-17,Sheffield United,Wolves,0,0,1.57,0.91,10,15,4,5,55.4,44.6,5,1,16,16,58191,Paul Tierney,D
+313,32,2024-03-17,Liverpool,Bournemouth,0,1,1.79,2.06,12,9,4,2,61.9,38.1,10,6,7,9,24301,Michael Oliver,A
+314,32,2024-03-18,Fulham,Tottenham,1,0,1.36,0.78,5,7,2,2,43.3,56.7,2,9,14,12,61168,Anthony Taylor,H
+315,32,2024-03-18,Manchester City,Everton,5,0,2.1,0.42,18,8,7,3,54.6,45.4,7,5,15,15,34732,Simon Hooper,H
+316,32,2024-03-17,Luton Town,Chelsea,2,1,1.93,0.86,8,7,3,1,37.7,62.3,4,6,17,11,52926,Chris Kavanagh,H
+317,32,2024-03-17,Burnley,Brighton,0,2,0.29,1.66,10,12,4,5,46.8,53.2,6,9,15,15,24131,Paul Tierney,A
+318,32,2024-03-18,Newcastle,Brentford,2,0,1.87,0.26,19,10,8,2,52.6,47.4,5,5,11,17,35256,Anthony Taylor,H
+319,32,2024-03-16,Crystal Palace,Manchester United,2,2,1.27,0.82,13,16,6,6,55.1,44.9,10,5,11,9,28559,Simon Hooper,D
+320,32,2024-03-18,Arsenal,Aston Villa,0,4,1.79,1.49,9,10,4,4,57.2,42.8,9,8,17,14,30190,Anthony Taylor,A
+321,33,2024-03-23,Chelsea,Manchester United,0,0,0.56,1.46,12,8,4,2,49.3,50.7,5,1,6,16,42796,Simon Hooper,D
+322,33,2024-03-25,Tottenham,Nottingham Forest,2,2,1.86,1.01,5,9,2,3,49.1,50.9,5,9,15,8,48173,Chris Kavanagh,D
+323,33,2024-03-23,Brentford,Arsenal,1,2,1.4,1.22,12,10,4,3,37.5,62.5,5,5,12,12,21607,Craig Pawson,A
+324,33,2024-03-25,Sheffield United,Luton Town,0,0,0.2,1.49,4,3,1,1,55.4,44.6,5,8,10,19,39675,Simon Hooper,D
+325,33,2024-03-23,Crystal Palace,Newcastle,0,4,2.29,2.31,11,18,3,7,47.3,52.7,5,2,6,12,24876,Chris Kavanagh,A
+326,33,2024-03-25,West Ham,Burnley,0,0,0.47,0.79,7,5,2,1,55.7,44.3,8,2,17,11,45685,Anthony Taylor,D
+327,33,2024-03-23,Liverpool,Manchester City,2,4,1.88,1.98,15,10,6,4,57.3,42.7,3,1,16,13,58976,Chris Kavanagh,A
+328,33,2024-03-24,Everton,Aston Villa,0,1,0.3,1.71,10,13,3,4,50.0,50.0,6,8,16,19,47723,Michael Oliver,A
+329,33,2024-03-23,Fulham,Wolves,2,0,1.34,0.82,10,12,4,4,45.6,54.4,5,8,8,11,37729,Anthony Taylor,H
+330,33,2024-03-24,Brighton,Bournemouth,0,1,1.88,0.84,9,8,3,2,49.9,50.1,11,5,17,13,37443,Simon Hooper,A
+331,34,2024-04-01,Luton Town,Aston Villa,0,0,0.2,0.19,12,11,5,3,46.6,53.4,2,7,10,10,27543,Simon Hooper,D
+332,34,2024-03-31,Arsenal,Manchester United,1,1,2.47,1.07,9,5,3,2,61.3,38.7,6,8,13,15,54329,Craig Pawson,D
+333,34,2024-04-01,Newcastle,Burnley,0,1,0.9,0.95,14,13,5,5,55.5,44.5,5,6,17,9,57321,Craig Pawson,A
+334,34,2024-03-30,Tottenham,Everton,2,1,1.78,1.07,9,12,3,4,50.2,49.8,10,9,9,19,52577,Paul Tierney,H
+335,34,2024-03-31,Brentford,Sheffield United,0,0,1.3,0.13,9,3,3,1,56.0,44.0,9,5,12,13,48363,Michael Oliver,D
+336,34,2024-03-30,Chelsea,Manchester City,2,3,0.99,2.24,15,10,4,4,37.7,62.3,5,1,12,15,58997,Simon Hooper,A
+337,34,2024-04-01,Brighton,Bournemouth,2,1,2.16,1.13,12,13,3,3,57.1,42.9,11,2,14,9,49605,Craig Pawson,H
+338,34,2024-03-30,Fulham,Crystal Palace,2,1,1.28,0.84,17,10,7,3,47.7,52.3,5,9,8,18,38676,Anthony Taylor,H
+339,34,2024-04-01,Wolves,Nottingham Forest,0,1,1.57,1.07,16,5,6,1,50.9,49.1,3,1,14,10,23199,Anthony Taylor,A
+340,34,2024-03-31,West Ham,Liverpool,2,0,0.75,1.8,13,8,4,2,49.1,50.9,10,3,15,10,43401,Chris Kavanagh,H
+341,35,2024-04-07,Wolves,Brentford,0,1,0.87,0.9,17,8,7,2,47.4,52.6,2,6,17,7,42480,Craig Pawson,A
+342,35,2024-04-08,Nottingham Forest,Burnley,0,0,0.66,0.1,11,2,3,0,47.1,52.9,9,8,12,8,42266,Michael Oliver,D
+343,35,2024-04-08,Newcastle,Everton,0,1,0.61,0.45,9,8,3,2,51.7,48.3,5,9,9,9,39076,Paul Tierney,A
+344,35,2024-04-07,Luton Town,Manchester United,2,1,0.83,0.54,11,7,4,2,42.7,57.3,7,1,7,10,28050,Craig Pawson,H
+345,35,2024-04-07,Bournemouth,Chelsea,2,2,0.71,0.92,9,6,3,2,43.1,56.9,3,7,6,8,35802,Paul Tierney,D
+346,35,2024-04-08,Manchester City,Arsenal,4,1,1.94,1.29,15,3,4,1,53.7,46.3,9,7,15,19,35797,Paul Tierney,H
+347,35,2024-04-06,Fulham,Liverpool,0,3,0.48,1.75,8,14,2,4,50.9,49.1,10,9,8,10,48646,Anthony Taylor,A
+348,35,2024-04-08,Aston Villa,West Ham,1,0,1.15,0.1,8,9,3,3,46.7,53.3,4,4,14,15,37932,Anthony Taylor,H
+349,35,2024-04-06,Tottenham,Crystal Palace,3,0,1.41,0.63,15,17,5,5,55.5,44.5,9,8,11,11,38433,Michael Oliver,H
+350,35,2024-04-06,Brighton,Sheffield United,3,1,2.39,0.1,10,3,3,1,51.5,48.5,10,4,15,11,24250,Paul Tierney,H
+351,36,2024-04-13,Fulham,Nottingham Forest,1,1,1.96,0.97,8,10,2,4,54.9,45.1,2,9,13,11,59958,Chris Kavanagh,D
+352,36,2024-04-15,Aston Villa,Everton,2,2,1.77,0.66,9,9,3,2,55.1,44.9,2,7,11,11,59501,Michael Oliver,D
+353,36,2024-04-13,Liverpool,Brighton,0,1,0.8,1.43,10,10,3,4,48.9,51.1,10,3,10,12,37269,Anthony Taylor,A
+354,36,2024-04-14,Chelsea,Brentford,0,2,1.73,1.25,11,9,3,3,60.2,39.8,2,3,15,12,55560,Simon Hooper,A
+355,36,2024-04-14,Newcastle,Wolves,2,1,1.61,0.9,14,6,4,2,59.7,40.3,9,9,12,10,37600,Chris Kavanagh,H
+356,36,2024-04-15,Sheffield United,Burnley,0,0,0.35,0.1,9,13,2,3,54.9,45.1,10,8,14,15,41649,Chris Kavanagh,D
+357,36,2024-04-15,Crystal Palace,Bournemouth,1,3,1.0,0.79,9,10,3,3,50.4,49.6,2,3,12,19,54474,Paul Tierney,A
+358,36,2024-04-15,Tottenham,Manchester United,1,1,2.2,0.8,10,6,4,2,49.4,50.6,8,9,15,7,60364,Michael Oliver,D
+359,36,2024-04-15,Manchester City,Luton Town,5,0,2.71,0.93,13,7,5,3,51.7,48.3,6,6,17,17,37903,Chris Kavanagh,H
+360,36,2024-04-15,Arsenal,West Ham,2,2,1.36,1.58,8,5,2,2,49.4,50.6,7,6,14,15,45587,Michael Oliver,D
+361,37,2024-04-21,Manchester City,Newcastle,0,0,1.36,1.04,14,11,5,2,65.3,34.7,5,4,7,16,47463,Paul Tierney,D
+362,37,2024-04-22,West Ham,Bournemouth,1,0,0.58,0.79,12,6,4,1,55.6,44.4,11,1,11,12,46485,Chris Kavanagh,H
+363,37,2024-04-21,Luton Town,Liverpool,1,2,1.67,1.0,15,10,5,3,48.8,51.2,11,1,10,8,44175,Paul Tierney,A
+364,37,2024-04-21,Burnley,Sheffield United,0,0,0.31,0.45,10,5,4,1,53.2,46.8,11,2,7,17,48173,Paul Tierney,D
+365,37,2024-04-22,Tottenham,Aston Villa,1,1,1.66,0.65,13,11,4,3,50.4,49.6,10,6,7,8,55383,Craig Pawson,D
+366,37,2024-04-22,Manchester United,Nottingham Forest,2,1,1.36,0.1,15,7,7,2,60.7,39.3,5,3,6,11,54828,Craig Pawson,H
+367,37,2024-04-20,Chelsea,Brighton,1,1,1.53,0.91,12,8,4,3,53.0,47.0,9,1,8,18,53872,Michael Oliver,D
+368,37,2024-04-21,Wolves,Crystal Palace,1,1,1.19,1.37,8,12,3,3,45.9,54.1,6,1,11,16,43621,Simon Hooper,D
+369,37,2024-04-20,Arsenal,Brentford,3,5,1.62,1.58,12,5,5,5,54.0,46.0,4,5,8,11,26641,Craig Pawson,A
+370,37,2024-04-21,Fulham,Everton,2,0,1.89,1.43,12,8,4,2,48.8,51.2,3,8,6,18,49656,Michael Oliver,H
+371,38,2024-04-28,Chelsea,Everton,1,3,2.17,1.65,14,10,5,4,44.5,55.5,5,5,14,18,31094,Paul Tierney,A
+372,38,2024-04-28,Liverpool,Bournemouth,1,0,2.18,0.98,13,6,6,2,56.0,44.0,4,3,9,19,41971,Simon Hooper,H
+373,38,2024-04-27,Tottenham,West Ham,1,0,1.28,0.34,14,9,4,3,52.4,47.6,6,2,9,8,53297,Paul Tierney,H
+374,38,2024-04-28,Brighton,Aston Villa,1,2,3.01,1.62,9,13,4,5,46.0,54.0,11,4,11,15,55604,Chris Kavanagh,A
+375,38,2024-04-29,Newcastle,Manchester City,2,4,0.89,2.16,13,7,4,4,52.4,47.6,11,7,8,9,38584,Simon Hooper,A
+376,38,2024-04-28,Nottingham Forest,Sheffield United,2,0,1.19,0.81,8,1,3,0,57.3,42.7,7,4,17,17,27333,Simon Hooper,H
+377,38,2024-04-29,Arsenal,Manchester United,2,0,2.23,0.11,16,8,5,3,53.4,46.6,6,2,7,15,61462,Craig Pawson,H
+378,38,2024-04-29,Wolves,Brentford,1,1,0.25,1.1,10,6,3,2,50.4,49.6,8,8,6,19,51622,Michael Oliver,D
+379,38,2024-04-29,Fulham,Burnley,2,0,2.23,0.68,3,6,2,2,47.9,52.1,6,9,17,19,41143,Chris Kavanagh,H
+380,38,2024-04-27,Luton Town,Crystal Palace,1,2,0.79,0.86,13,5,3,2,50.7,49.3,6,4,16,18,25906,Paul Tierney,A
